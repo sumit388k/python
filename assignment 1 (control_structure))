@@ -1,1 +1,112 @@
+Simple (5 Questions)
+
+1. Print 1 to 10
+
+Write a program using a for loop to print numbers from 1 to 10.
+
+2. Print even numbers
+
+Use a while loop to print even numbers between 1 and 20.
+
+3. Sum of first N numbers
+
+Take input N and print the sum of numbers from 1 to N using a for loop.
+
+4. Check positive/negative
+
+Take an integer as input and use if-else to check if it’s positive, negative, or zero.
+
+5. Multiplication table
+
+Print the multiplication table of a number n (up to 10) using a for loop.
+
+
+Intermediate (10 Questions)
+
+6. Count digits
+
+Take an integer input and count the number of digits using a while loop.
+
+7. Reverse a number
+
+Reverse a given number using while loop.
+
+Example: 123 → 321
+
+8. Factorial
+
+Find factorial of n using for loop.
+
+9.Prime check
+
+Check whether a given number is prime using loop + condition.
+
+10.Sum of digits
+
+Find sum of digits of a number using while loop.
+
+Example: 245 → 2+4+5=11
+
+11. Find largest of 3 numbers
+
+Use nested if-else to find the largest among three numbers.
+
+12. Print pattern
+
+Print this pattern using nested loops:
+
+*
+**
+***
+****
+*****
+
+
+13.Fibonacci series
+
+Print first n Fibonacci numbers using loop.
+
+Example: n=6 → 0 1 1 2 3 5
+
+14. Count vowels
+
+Take a string and count vowels using for loop and if condition.
+
+
+15. Break and continue
+
+Write a program to print numbers 1 to 20:
+
+16. Skip multiples of 3 (continue)
+
+Stop loop when number becomes 15 (break)
+
+✅ Difficult (5 Questions)
+
+17.Number guessing game
+
+Program generates a random number between 1 and 100.
+
+18. User guesses until correct.
+
+Print “Too high” / “Too low” each time using while loop.
+
+19. Armstrong number
+
+Check if a number is an Armstrong number using loop and conditions.
+
+Example: 153 → 1³ + 5³ + 3³ = 153
+
+20. Palindrome number
+
+Check whether a number is palindrome using loops.
+
+Example: 1221 → palindrome, 123 → not palindrome
+
+21. Find all prime numbers in a range
+
+22. Input two numbers a and b.
+
+Print all prime numbers between them using loops + conditions.
+
 
